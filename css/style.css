@@ -1,0 +1,446 @@
+body {
+    margin: 0px;
+    font-family: "Roboto";
+}
+.nav {
+    font-size: 16px;
+    display: flex;
+    justify-content: left;
+    flex: 1;
+    padding-left: 322px;
+    padding-top: 47px;
+    padding-bottom: 45px;
+    margin: 0 auto;
+    max-width: 1600px;
+}
+.nav img {
+    padding-right: 11px;
+}
+.inner {
+    padding-right: 32px;
+    text-decoration: none;
+    color: white;
+}
+.inner.active {
+    padding-right: 548px;
+}
+.block1 {
+    background-color: #b2b2b2;
+    height: 950px;
+    background-image: url(../img/sadad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.shape {
+    background-color:#8795a9;
+    margin-left: 322px;
+    margin-right: 322px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 1px;
+    border: none;
+}
+.fusion {
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+}
+.text {
+    margin-top: 227px;
+    height: 569px;
+}
+.lets {
+    color: white;
+    text-align: center;
+    font-weight: medium;
+    font-size: 20px;
+}
+.butt {
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+}
+.plan {
+    position: absolute;
+    margin-top: 17px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 58px;
+}
+.video {
+    padding-top: 334px;
+    padding-left: 161px;
+    padding-bottom:50px ;
+    display: flex;
+}
+.watch {
+    color: white;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 13px;
+    
+}
+.intro {
+    color: white;
+    font-size: 18px;
+    margin-left: 11px;
+    
+    font-weight: bold;
+}
+#welcome {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 21px;
+    color: #4a4a4a;
+    line-height: 1.3;
+}
+.nam {
+   
+        font-size: 16px;
+        color: #757575;
+        line-height: 1.563;
+        text-align: center;
+ }
+ .module {
+     display: flex;
+     margin-top: 142px;
+     justify-content: center;
+ }
+ .one  p {
+     font-size: 18px;
+ }
+ .one {
+     width: 13%;
+     padding-left: 57px;
+     padding-top: 61px;
+     padding-bottom: 52px;
+     padding-right: 42px;
+ }
+  .one div {
+        font-size: 16px;
+        font-family: "Roboto";
+        color: rgb(117, 117, 117);
+        line-height: 1.565;
+      }
+ .two  p {
+        font-size: 18px;
+    }
+ .two {
+    width: 13%;
+    padding-left: 57px;
+    padding-top: 61px;
+    padding-bottom: 52px;
+    padding-right: 42px;
+    margin-left: 22px;
+    margin-right: 22px;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255); 
+    box-shadow: 0px 12px 59px 0px rgba(0, 0, 0, 0.08); 
+    }
+ .two div {
+           font-size: 16px;
+           font-family: "Roboto";
+           color: rgb(117, 117, 117);
+           line-height: 1.565;
+         }
+.three  p {  
+    font-size: 18px;
+}
+.three {
+     width: 13%;
+     padding-left: 57px;
+     padding-top: 61px;
+     padding-bottom: 52px;
+     padding-right: 42px;
+     border-radius: 8px; 
+     background-color: rgb(255, 255, 255);
+ }
+.three div {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: rgb(117, 117, 117);
+    line-height: 1.565;
+}
+.slider {
+    margin-top: 121px;
+    text-align: center;
+}
+.shape2 {
+    background-color: #ededed;
+    margin-top: 73px;
+    margin-left: 322px;
+    margin-right: 322px;
+    margin-bottom: 0px;
+    height: 1px;
+    border: none;
+}
+#find {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+    color: #4a4a4a;
+}
+#find p {
+    color: #616161;
+    font-size: 20px;
+}
+.d5 {background:white; text-align: center;}
+.d5 input, .d5 button {
+  outline: none;
+  background: transparent;
+}
+.d5 input {
+  text-align: center;
+  font-size: 24px;
+  width: 5%; 
+  border: 3px solid white;
+}
+.d5 button:before {
+    content: "\f002";
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: #F9F0DA;
+}
+.group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 83px;
+}
+.Thailand {
+    padding: 61px 150px 320px 150px; 
+    margin-bottom: 44px;
+    background-image: url(../img/Beautiful-nature-beautiful-photos-Ross-Lipson-17.jpg);
+    color: white;
+    background-size: cover;
+}
+.group1 {
+    display: flex;
+    flex-direction: column;
+    margin-right: 45px;
+}
+.Latest {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+    color: #4a4a4a;
+}
+.Latest p {
+    color: #616161;
+    font-size: 20px;
+}
+#blog {
+    display: flex;
+    margin-top: 135px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img {
+    width: 554px;
+    height: 454px;
+    margin-bottom: 74px;
+    object-fit: cover;
+}
+.Venture p {
+    padding-top: 22px;
+    font-size: 20px;
+    color: #565656;
+    margin-top: 0px;
+}
+.Venture div {
+    font-size: 16px;
+    color: #757575;
+    line-height: 1.5;
+    padding-bottom: 23px;
+}
+.Venture {
+    padding-left: 32px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 12px 59px 0px rgba(0, 0, 0, 0.08);
+}
+.Venture img {
+    height: 207px;
+    width: 277px;
+    position: absolute;
+    object-fit: cover;
+    transform: translate(245px,0);
+}
+.balloon {
+    width: 286px;
+    height: 207px;
+    object-fit: cover;
+}
+.box {
+    margin-left: 74px;
+    box-shadow: 0px 12px 59px 0px rgba(0, 0, 0, 0.08);
+    margin-right: 74px;
+}
+.box p {
+    color: #70644f;
+    padding-left: 45px;
+    font-size: 20px;
+}
+.box div {
+    padding-left: 45px;
+    color: #757575;
+    line-height: 1.5;
+    padding-bottom: 64px;
+}
+.attractions {
+    width: 286px;
+    height: 207px;
+    margin-left: 74px;
+    margin-top: 74px;
+    object-fit: cover;
+}
+.img-2 {
+    height: 207px;
+    object-fit: cover;
+    width: 286px;
+    margin-bottom: 74px;
+}
+.img-3 {
+    height: 207px;
+    object-fit: cover;
+    width: 286px;
+}
+.Discover p {
+    font-size: 20px;
+    padding-left: 45px;
+    color: #7d7360;
+}
+.Discover div {
+    padding-left: 45px;
+    line-height: 1.5;
+    padding-bottom: 64px;
+    color: #818181;
+}
+.Discover {
+        box-shadow: 0px 12px 59px 0px rgba(0, 0, 0, 0.08);
+}
+.keep {
+    margin-top: 122px;
+    display: flex;
+    justify-content: center;
+}
+#what {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+    color: #4a4a4a;
+}
+#what p {
+    font-size: 20px;
+    color: #616161;
+}
+.conteiner {
+    margin-top: 91px;
+    display: flex;
+    justify-content: center;
+}
+.fg {
+    border-radius: 8px;
+    height: 187px;
+    width: 179px;
+    object-fit: cover;
+    position: absolute;
+    transform: translate(-264px);
+    margin-left: 42px;
+}
+.testimonial {
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 12px 59px 0px rgba(0, 0, 0, 0.08); 
+    padding: 39px 29px 48px 264px;
+}
+.testimonial div {
+    color: #616161;
+    line-height: 1.5;
+}
+.Dimitri {
+    color: #fbad27;
+    font-weight: bold;
+}
+.testimonial p {
+    margin: 0;
+    font-size: 14px;
+    color: #616161;
+}
+.slider1 {
+    margin-top: 144px;
+    text-align: center;
+}
+.Subscribe {
+    display:flex;
+    justify-content: center;
+}
+.Subscribe p {
+    font-size: 40px;
+    color:white;
+    margin: 0;
+    padding-top: 107px;
+    padding-bottom: 105px;
+
+}
+.book {
+    padding-top: 107px;
+    padding-bottom: 105px;
+    font-weight: bold;
+    padding-right: 322px;
+    margin-left: 297px;
+}
+.now {
+    color: white;
+    border-width: 2px;
+    border-color: rgb(255, 255, 255); 
+    border-style: solid;
+    border-radius: 48px;
+    padding: 16px 71px 16px 71px;
+}
+.book a {
+    text-decoration: none;
+}
+.color {
+    margin-top: 162px;
+    margin-bottom: 40px;
+    background-color: #fbad27;
+}
+footer {
+    margin-top: 194px;
+}
+#footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.aboutus p {
+    font-size: 20px;
+    font-weight: medium;
+    color: #4a4a4a;
+}
+.aboutus div {
+    line-height: 1.5;
+}
+.aboutus a {
+    text-decoration: none;
+    color:#616161;
+}
+.Facebook {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.copy {
+    font-size: 15px;
+    color: #616161;
+    margin-top: 59px;
+    text-align: center;
+    margin-bottom: 81px;
+}
