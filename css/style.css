@@ -55,7 +55,7 @@ body {
 .lets {
     color: white;
     text-align: center;
-    font-weight: medium;
+    font-weight: 500;
     font-size: 20px;
 }
 .butt {
@@ -423,7 +423,7 @@ footer {
 }
 .aboutus p {
     font-size: 20px;
-    font-weight: medium;
+    font-weight: 500;
     color: #4a4a4a;
 }
 .aboutus div {
